@@ -5,8 +5,8 @@ git config --global user.email "towa_carlos@hotmail.com"
 creas un repositorio en github
 luego click derecho git gui
 
-rescan
+rescan 
 stage changed
-commit al costado escribir 
 commit
 push
+
